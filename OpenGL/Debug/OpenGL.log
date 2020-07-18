@@ -1,0 +1,4 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Gravity\OpenGL\src\Application.cpp(22,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\Gravity\OpenGL\src\Application.cpp(23,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Gravity\OpenGL\Debug\Template.exe
